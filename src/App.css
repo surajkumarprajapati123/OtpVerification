@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  font-weight: 400;
+}
+
+.App input {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  text-align: center;
+  color: black;
+  font-size: large;
+}
+
+.btn {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: aquamarine;
+  color: black;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.error {
+  border: 1px solid red;
+}
+
+input:focus {
+  outline-color: blue;
+}
